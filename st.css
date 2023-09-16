@@ -146,3 +146,11 @@ padding: 80px;
 
 
 }}
+@media screen and(max-width:375){
+	.first img{
+		width: 200%;
+		height: 200px;
+	
+	}
+
+}
