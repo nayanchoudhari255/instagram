@@ -14,7 +14,7 @@ form{
 }
 
 input[type=text],select{
-   width: 300px;
+   width: 251px;
 
   margin: 20px 50px;
    padding: 12px 40px;
@@ -27,7 +27,7 @@ input[type=text],select{
 
 	width: 200px;
 	align-items: center;
-	margin: 20px 40px;
+	margin: 20px 80px;
 	background-color: black;
 	box-sizing: border-box;
 	display: inline-block;
