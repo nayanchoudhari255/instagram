@@ -47,7 +47,7 @@ p a{
 	text-decoration: none;
 }
 .hr{
-	width: 250px;
+	width: 300px;
 	margin: 20px 0;
 }
 .button img{
@@ -65,8 +65,8 @@ margin: 0;
 	text-align: center;
 	color: white;
 	font-size: 20px;
-	width: 300px;
-	margin: 0;
+	width: 250px;
+	margin: 10px 10px;
 }
 .hri{
 width: 255px;
