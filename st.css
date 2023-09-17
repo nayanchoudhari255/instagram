@@ -16,7 +16,7 @@ form{
 input[type=text],select{
    width: 251px;
 
-  margin: 20px 50px;
+  margin: 10px 20px;
    padding: 12px 40px;
    border-radius: 4px;
    box-shadow: gray;
@@ -25,9 +25,9 @@ input[type=text],select{
 }
 .Button{
 
-	width: 200px;
+	width: 150px;
 	align-items: center;
-	margin: 20px 80px;
+	margin: 20px 60px;
 	background-color: black;
 	box-sizing: border-box;
 	display: inline-block;
