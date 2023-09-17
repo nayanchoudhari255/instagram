@@ -75,14 +75,7 @@ width: 150px;
 padding: 80px;
 
 }
-.hir p.dont{
-	align-items: center;
-	width: 400px;
-	font-size: 15px;
-	
-	
 
-}
  
 
 @media screen and (min-width: 482px) {
@@ -152,13 +145,5 @@ width: 1100px;
 padding: 80px;
 
 }
-.hir p.dont{
-	text-align: center;
-	margin: 30px 80px;
-	width: 1000px;
-	font-size: 40px;
-	
 
 }
-
-}}
