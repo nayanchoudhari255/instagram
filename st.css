@@ -38,7 +38,7 @@ input[type=text],select{
 }
 p{
 	align-items: center;
-	width: 800px;
+	width: 400px;
 	font-size: 15px;
 	margin: 10px 10px;
 	
@@ -77,7 +77,7 @@ padding: 80px;
 }
 p.dont{
 	align-items: center;
-	width: 800px;
+	width: 400px;
 	font-size: 15px;
 	
 	
